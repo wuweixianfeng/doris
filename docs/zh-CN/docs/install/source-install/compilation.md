@@ -245,4 +245,4 @@ WITH_MYSQL=1 WITH_LZO=1 sh build.sh
 注意，当用户依赖这两个第三方库时，则默认不在 Apache License 2.0 协议框架下使用 Doris。请注意 GPL 相关协议约束。
 
 * [1] mysql-5.7.18
-* [2] lzo-2.10
+* [2] lzo-2.
